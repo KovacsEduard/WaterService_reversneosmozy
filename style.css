@@ -324,7 +324,7 @@ body{
 }
 
 .card{
-    background: rgba(0, 66, 172, 0.803);
+    background-color: rgba(0, 66, 172, 0.803);
     border: white solid 1px;
     border-radius: 10px;
     padding-bottom: 2%;
